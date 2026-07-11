@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { motion } from 'framer-motion';
-import { CheckCircle2, Download, RefreshCw, FileJson, FileSpreadsheet, Info, AlertTriangle } from 'lucide-react';
+import { CheckCircle2, Download, RefreshCw, FileJson, FileSpreadsheet, Info, AlertTriangle, Sparkles } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '../ui/card';
 import { Button } from '../ui/button';
 import { Table, TableHeader, TableRow, TableHead, TableBody, TableCell } from '../ui/table';
