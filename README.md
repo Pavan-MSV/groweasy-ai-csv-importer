@@ -6,14 +6,10 @@ An intelligent, production-ready, full-stack application designed to import cont
 
 ## 📸 Screenshots
 
-### 1. Upload Leads Screen (Drag & Drop)
-![Upload Screen](https://images.unsplash.com/photo-1557200134-90327ee9fafa?auto=format&fit=crop&w=1200&h=600&q=80)
 
-### 2. CSV Table Preview (No AI Processing Yet)
-![Preview Screen](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&h=600&q=80)
 
-### 3. Real-Time Streaming Import Sequence
-![Streaming Import Screen](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&h=600&q=80)
+### 1. CSV Import Completed (Results Screen)
+![Results Screen](./frontend/public/dashboard_screenshot.png)
 
 ---
 
